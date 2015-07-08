@@ -1,0 +1,2 @@
+# Follower
+auto trade
